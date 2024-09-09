@@ -6,7 +6,7 @@ from requests.exceptions import SSLError
 from lxml import etree
 from tqdm import tqdm
 
-save_path = ""  # 路径
+save_path = ""  # 储存路径
 start_page = 1  # 起始页数
 end_page = 2  # 结束页数
 
